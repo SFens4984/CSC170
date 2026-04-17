@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="gZ_PDPl9Y4z9pwP-H2pi">
-    <mxGraphModel dx="1471" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="FPDbzNrJnPMyggvqwV7i-40" edge="1" parent="1" source="HXPEC74w9ZhQ8GGZRx7Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FPDbzNrJnPMyggvqwV7i-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Is Bear&lt;div&gt;touching&lt;div&gt;a bee?&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Is Bear&lt;div&gt;touching&lt;div&gt;a flower?&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="430" y="455" as="geometry" />
         </mxCell>
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="False" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-19" edge="1" parent="1" source="HXPEC74w9ZhQ8GGZRx7Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HXPEC74w9ZhQ8GGZRx7Y-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Remove a heart &amp;amp; bee touching bear" vertex="1">
+        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Remove flower &amp;amp; increase flower count" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="585" as="geometry" />
         </mxCell>
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-24" edge="1" parent="1" source="HXPEC74w9ZhQ8GGZRx7Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HXPEC74w9ZhQ8GGZRx7Y-23" value="">
@@ -90,7 +90,7 @@
             <mxPoint x="600" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="How&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;many&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hearts&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;remaining?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="How&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;many&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;flowers&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;collected&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="110" x="425" y="665" as="geometry" />
         </mxCell>
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-21" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="HXPEC74w9ZhQ8GGZRx7Y-20" value="">
@@ -123,8 +123,8 @@
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Game State = 0" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hearts == 0" vertex="1">
-          <mxGeometry height="30" width="70" x="410" y="755" as="geometry" />
+        <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flowers == 0" vertex="1">
+          <mxGeometry height="30" width="80" x="400" y="755" as="geometry" />
         </mxCell>
         <mxCell id="HXPEC74w9ZhQ8GGZRx7Y-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
           <mxGeometry height="30" width="40" x="440" y="535" as="geometry" />
@@ -159,7 +159,7 @@
         <mxCell id="FPDbzNrJnPMyggvqwV7i-16" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HXPEC74w9ZhQ8GGZRx7Y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPDbzNrJnPMyggvqwV7i-43" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FPDbzNrJnPMyggvqwV7i-42" value="">
+        <mxCell id="FPDbzNrJnPMyggvqwV7i-43" edge="1" parent="1" source="OS9ozkudNKrV_NqS-ptR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FPDbzNrJnPMyggvqwV7i-42" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Game state = 1&lt;div&gt;(play)&lt;/div&gt;" vertex="1">
@@ -215,7 +215,7 @@
         <mxCell id="FPDbzNrJnPMyggvqwV7i-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Default == no changes" vertex="1">
           <mxGeometry height="60" width="70" x="720" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="FPDbzNrJnPMyggvqwV7i-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Is Bear&lt;div&gt;touching&lt;div&gt;a flower?&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FPDbzNrJnPMyggvqwV7i-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Is Bear&lt;div&gt;touching&lt;div&gt;a bee?&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="640" y="455" as="geometry" />
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-33" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="FPDbzNrJnPMyggvqwV7i-35" value="">
@@ -227,13 +227,13 @@
         <mxCell id="FPDbzNrJnPMyggvqwV7i-34" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FPDbzNrJnPMyggvqwV7i-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPDbzNrJnPMyggvqwV7i-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Remove flower &amp;amp; increase flower count" vertex="1">
+        <mxCell id="FPDbzNrJnPMyggvqwV7i-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Remove a heart &amp;amp; hide bee touching bear for 5 secs" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="585" as="geometry" />
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-36" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FPDbzNrJnPMyggvqwV7i-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FPDbzNrJnPMyggvqwV7i-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="How&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;many&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;flowers&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;counted?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FPDbzNrJnPMyggvqwV7i-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="How&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;many&lt;/span&gt;&lt;div&gt;hearts&lt;/div&gt;&lt;div&gt;remaining?&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="110" x="635" y="665" as="geometry" />
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-67" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FPDbzNrJnPMyggvqwV7i-64">
@@ -252,7 +252,7 @@
         <mxCell id="FPDbzNrJnPMyggvqwV7i-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
           <mxGeometry height="30" width="40" x="650" y="537.5" as="geometry" />
         </mxCell>
-        <mxCell id="FPDbzNrJnPMyggvqwV7i-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flowers == 5" vertex="1">
+        <mxCell id="FPDbzNrJnPMyggvqwV7i-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Health == 5" vertex="1">
           <mxGeometry height="30" width="80" x="610" y="755" as="geometry" />
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-49" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FPDbzNrJnPMyggvqwV7i-48">
@@ -328,6 +328,15 @@
         </mxCell>
         <mxCell id="FPDbzNrJnPMyggvqwV7i-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
           <mxGeometry height="30" width="40" x="140" y="622.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OS9ozkudNKrV_NqS-ptR-4" edge="1" parent="1" source="FPDbzNrJnPMyggvqwV7i-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OS9ozkudNKrV_NqS-ptR-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="175" as="sourcePoint" />
+            <mxPoint x="880" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OS9ozkudNKrV_NqS-ptR-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Respawn any bees that have been removed for 5 secs" vertex="1">
+          <mxGeometry height="60" width="100" x="830" y="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
